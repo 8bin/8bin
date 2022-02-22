@@ -51,6 +51,6 @@
 
 [quote1]: https://www.imdb.com/title/tt4179452/ "The Last Kingdom"
 [8bin]: https://8bin.github.io/
-[fb]: https://www.facebook.com/BenuBinoy
+[fb]: https://www.facebook.com/8bin.benu
 
 [//]: # "visit lab.github.com"
